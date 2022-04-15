@@ -1,0 +1,5 @@
+gunicorn==20.1.0
+requests==2.25.1
+Flask==2.0.2
+binance-connector==1.9.0
+python-binance==1.0.15
